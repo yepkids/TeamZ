@@ -1,3 +1,1 @@
-# TeamZ
-# TeamZ
-# dfgsdfg
+# TeamZ Bird Migration Radar Project
